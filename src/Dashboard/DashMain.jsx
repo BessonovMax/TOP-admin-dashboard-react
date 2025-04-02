@@ -1,9 +1,9 @@
 import React from "react";
 import { Card } from "./Card";
-import User2 from "../assets/User2.jpg";
-import User3 from "../assets/User3.jpg";
+import User2 from "../assets/user2.jpg";
+import User3 from "../assets/user3.jpg";
 import User from "../assets/User.jpg";
-import User5 from "../assets/User5.jpg";
+import User5 from "../assets/user5.jpg";
 
 export const DashMain = () => {
   return (
